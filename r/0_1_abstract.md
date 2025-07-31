@@ -1,0 +1,3 @@
+# Abstract
+
+This report details the development of 'Taskify', a SvelteKit-based web application designed for comprehensive task management. The application leverages browser `localStorage` for efficient local data persistence, complemented by Qdrant as a robust cloud vector database for advanced search and storage capabilities. Taskify aims to provide users with an intuitive and responsive platform to organize, track, and manage their daily tasks effectively, highlighting the integration of modern web technologies for a scalable and user-centric solution.
