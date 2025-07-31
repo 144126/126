@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b43f6a523a08159f",
+    "type": "split",
+    "children": [
+      {
+        "id": "133fc6772999349f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8403d27667d00342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.2. Choice of Programming Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2. Choice of Programming Language"
+            }
+          },
+          {
+            "id": "6b25e4f0951e901e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Chapter 1 - Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Chapter 1 - Introduction"
+            }
+          },
+          {
+            "id": "29a0360d4e3cc5ce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06e057c4e63a47a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "be46a16b3fe72db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b44ee81010b017",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb4e00d26ff8cc88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb9a0b6a7b9613fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d3cc1ff53993114",
+    "type": "split",
+    "children": [
+      {
+        "id": "59862861956fe003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7707b6b7260e1432",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4.2. Choice of Programming Language.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4.2. Choice of Programming Language"
+            }
+          },
+          {
+            "id": "3a20bbdad4cb010b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4.2. Choice of Programming Language.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4.2. Choice of Programming Language"
+            }
+          },
+          {
+            "id": "1f3bdf273005ca75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2753ba15a8e90d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4.2. Choice of Programming Language.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.2. Choice of Programming Language"
+            }
+          },
+          {
+            "id": "0459838bc47cd69a",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "8403d27667d00342",
+  "lastOpenFiles": [
+    "taskify.md",
+    "4.2. Choice of Programming Language.md",
+    "index.js",
+    "1.4. Main Aims & Objectives.md",
+    "2.1. Introduction.md",
+    "1.3. Solution that Emerged.md",
+    "2.4. Architecture.md",
+    "1.5. Chapters Overview.md",
+    "1.2. Methodology & Framework Justification.md",
+    "1.1. The System Developed.md",
+    "1. Chapter 1 - Introduction.md",
+    "0.2 Acknowledgments.md",
+    "0.1 Abstract.md",
+    "Abstract.md",
+    "Welcome.md",
+    "Introduction.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts"
+  ]
+}
